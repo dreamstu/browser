@@ -1,13 +1,18 @@
 {
   "name": "browser",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "homepage": "",
-  "author": "",
+  "description": "一套方便灵活的高可用的前端组合框架. 提供browser信息的基础组件",
+  "keywords": ["browser","ua"],
+  "homepage": "http://www.dreamstu.com/",
+  "author": "Seven",
+  "authorInfo":[{
+    "name":"Seven",
+    "email":"cjxsgn@163.com",
+    "qq":"2499039555"
+   }],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Seven/browser.git"
+    "url": "git://github.com/dreamstu/browser.git"
   },
   "bugs": {
     "url": ""
