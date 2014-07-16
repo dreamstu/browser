@@ -123,6 +123,49 @@ webkit 引擎的版本，0表示非此引擎
 浏览器插件信息对象。
 
 
+### platform
+
+`释义`
+浏览器platform信息对象。
+
+###platform.name
+
+`释义`
+操作系统的名称
+
+###platform.win
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.android
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 Mozilla/5.0 (Linux; U; Android 2.0; en-us; Droid Build/ESD20) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.iPad
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) version/4.0.4 Mobile/7B367 Safari/531.21.10 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.iPhone
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0_1 like Mac OS X; zh-cn) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A400 Safari/528.16 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.iPod
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 iPod touch Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; zh-cn) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.linux
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.mac
+`释义`
+操作系统的版本号，如果是0表示不是此操作系统 操作系统的版本号，如果是0表示不是此操作系统
+
+###platform.getPlatform()
+
+
+
+
 ---
 
 ## 方法详解
